@@ -30,33 +30,29 @@
         <ul class="list-group">
           <li class="list-group-item d-flex justify-content-between align-items-start">
             <div class="ms-2 me-auto">
-              <div class="fw-bold">Wang Tian Yang:</div>
-              "Dedicated to fostering unity and amplifying student voices, I vow to lead with empathy and
-              innovation as your class monitor."
+              <div class="fw-bold">A:</div>
+              "....."
             </div>
             <!--<span class="badge bg-primary rounded-pill"> {{ options[0] }}</span>-->
           </li>
           <li class="list-group-item d-flex justify-content-between align-items-start">
             <div class="ms-2 me-auto">
-              <div class="fw-bold">Ma Le Xin:</div>
-              "Committed to inclusivity and positive change, I aspire to create an environment where every
-              student's ideas are valued and heard, making our class stronger together."
+              <div class="fw-bold">A:</div>
+              "....."
             </div>
             <!--<span class="badge bg-primary rounded-pill"> {{ options[1] }}</span>-->
           </li>
           <li class="list-group-item d-flex justify-content-between align-items-start">
             <div class="ms-2 me-auto">
-              <div class="fw-bold">Wang Chen Xin:</div>
-              "Driven by a passion for collaboration and growth, I promise to work tirelessly to enhance our
-              class experience, ensuring that each voice is not just heard, but truly considered."
+              <div class="fw-bold">A:</div>
+              "....."
             </div>
             <!--<span class="badge bg-primary rounded-pill"> {{ options[2] }}</span>-->
           </li>
           <li class="list-group-item d-flex justify-content-between align-items-start">
             <div class="ms-2 me-auto">
-              <div class="fw-bold">Wang Guan Zhong:</div>
-              "With a focus on integrity and service, I am dedicated to representing our class with transparency
-              and accountability, striving to make our shared journey through school memorable and meaningful."
+              <div class="fw-bold">A:</div>
+              "....."
             </div>
             <!--<span class="badge bg-primary rounded-pill"> {{ options[3] }}</span>-->
           </li>
