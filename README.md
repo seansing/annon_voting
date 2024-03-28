@@ -6,4 +6,6 @@ A user first generates two random keys, one is public and one is secret. Then th
 
 Once validation is successful, the user can submit a vote. Now they are ready to submit their vote to the chain and it is verified by the merkle tree on the chain. The browser received the event that the commitment is submitted to the chain and generates the merkle tree and calculates the zk proof with its nullifier. This checks if the voter has voted before or not. Finally, their vote is officially submitted and logged on chain. 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+The image below illustrates the flow of the project. 
+
+![alt text](https://github.com/seansing/annon_voting/blob/main/project-flow.png)
